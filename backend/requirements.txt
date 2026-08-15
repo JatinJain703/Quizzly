@@ -1,0 +1,11 @@
+fastapi==0.141.1
+uvicorn==0.52.1
+pydantic==2.13.4
+python-dotenv==1.2.2
+asyncpg==0.31.0
+python-multipart==0.0.32
+pymupdf==1.28.0
+langchain-huggingface==1.2.2
+tiktoken==0.13.0
+gradio-client==2.6.0
+groq==0.37.1
